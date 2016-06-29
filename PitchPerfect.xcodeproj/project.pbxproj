@@ -13,6 +13,7 @@
 		D24EBCD01D184AE400174695 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D24EBCCE1D184AE400174695 /* LaunchScreen.storyboard */; };
 		D24EBCDB1D184AE400174695 /* PitchPerfectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D24EBCDA1D184AE400174695 /* PitchPerfectTests.swift */; };
 		D24EBCE61D184AE400174695 /* PitchPerfectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D24EBCE51D184AE400174695 /* PitchPerfectUITests.swift */; };
+		D2DD41521D23FEEA0083B041 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D24EBCC51D184AE400174695 /* AppDelegate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -255,6 +256,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D2DD41521D23FEEA0083B041 /* AppDelegate.swift in Sources */,
 				D24EBCC81D184AE400174695 /* RecordSoundsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
